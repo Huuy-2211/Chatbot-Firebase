@@ -21,7 +21,9 @@ pip install -r requirements.txt
 Tạo file `.env` tại thư mục gốc và thêm:
 
 GEMINI_API_KEY 
+
 FIREBASE_WEB_API_KEY
+
 FIREBASE_KEY_PATH=serviceAccountKey.json  
 
 ## 4. Thiết lập Firebase

@@ -19,6 +19,7 @@ pip install -r requirements.txt
 
 ## 3. Cấu hình biến môi trường (.env)
 Tạo file `.env` tại thư mục gốc và thêm:
+
 GEMINI_API_KEY 
 FIREBASE_WEB_API_KEY
 FIREBASE_KEY_PATH=serviceAccountKey.json  
@@ -37,4 +38,15 @@ streamlit run app.py
 ## 7. Tài khoản đăng nhập hệ thống
 email: huy123@gmail.com
 mk: 101106
-## 7. Đường dẫn đến video demo
+## 8. Đường dẫn đến video demo
+https://github.com/user-attachments/assets/07f900ea-39c7-4877-bd01-e0769aa25348
+
+
+
+
+
+
+
+
+
+
